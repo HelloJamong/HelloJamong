@@ -68,13 +68,13 @@ AI 도구를 활용한 보조 개발 및 운영 자동화
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloJamong&layout=compact&theme=dark&hide_border=true"
+        src="https://github-readme-stats-three-self-35.vercel.app/api/top-langs/?username=HelloJamong&layout=compact&theme=dark&hide_border=true"
         width="360"
       />
     </td>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=HelloJamong&show_icons=false&theme=dark&hide_border=true"
+        src="https://github-readme-stats-three-self-35.vercel.app/api?username=HelloJamong&show_icons=false&theme=dark&hide_border=true"
         width="360"
       />
     </td>
